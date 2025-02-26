@@ -2,8 +2,6 @@
 
 A powerful AI-powered study assistant that helps you interact with your notes and documents through natural language conversation. Upload your study materials and chat with the agent to get information, explanations, and answers from your documents.
 
-![Study Agent Demo](https://via.placeholder.com/800x400?text=Study+Agent+Demo)
-
 ## 🚀 Features
 
 - **Natural Language Conversation**: Chat with an AI assistant about your documents
